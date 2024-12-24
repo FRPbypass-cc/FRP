@@ -3,5 +3,7 @@
 	  <string>com.sec.enterprise.knox.cloudmdm.smdms</string>
 	  <string>com.google.android.apps.work.oobconfig</string>
 	  <string>com.google.android.gms</string>
+	  <string>com.android.settings.pattern.screen.lock</string>
+	  <string>com.google.android.apps.account.login.verification</string>
    </disabledPackages>
 </importExportSetting>
